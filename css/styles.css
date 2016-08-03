@@ -1,0 +1,38 @@
+body, h1, h2, h3, p, a {
+  margin: 0;
+  padding: 0;
+  background-color: silver;
+  color: #333;
+  font-family: arial, helvetica, sans-serif;
+}
+
+.wrapper {
+  width: 90%;
+  margin: 10px 5%;
+}
+
+.content-block__third {
+  float: left;
+  width: 26%;
+  margin: 20px 3.3%;
+  padding: 10px 0;
+}
+
+.content-container {
+  width: 80%;
+  margin: 0 10%;
+}
+
+.content-container img {
+  width: 100%;
+}
+
+.content-block__full {
+  width: 100%;
+  clear: both;
+}
+
+.footer {
+  text-align: center;
+  margin: 50px 0;
+}
