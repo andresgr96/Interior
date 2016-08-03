@@ -20,6 +20,7 @@ body, h1, h2, h3, p, a {
 
 .content-container {
   width: 80%;
+  background-color: inherit;
   margin: 0 10%;
 }
 
@@ -31,6 +32,19 @@ body, h1, h2, h3, p, a {
   width: 100%;
   clear: both;
 }
+.bro{
+  background-color: red;
+}
+.sis{
+  background-color: blue;
+}
+.cus{
+  background-color: pink;
+}
+.dawg{
+  background-color: orange;
+}
+
 
 .footer {
   text-align: center;
